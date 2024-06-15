@@ -32,7 +32,7 @@
    </plugins>
   </pluginManagement>
  </build>
-	  
+
 	  <!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
 <dependency>
     <groupId>io.github.bonigarcia</groupId>
@@ -60,7 +60,5 @@
     <artifactId>selenium-java</artifactId>
     <version>3.141.59</version>
 </dependency>
- 
- 
   </dependencies>
 </project>
